@@ -1,0 +1,23 @@
+{
+  "name": "react-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdarshNiket/ReactTutorial.git"
+  },
+  "author": "AdarshNiket",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/AdarshNiket/ReactTutorial/issues"
+  },
+  "homepage": "https://github.com/AdarshNiket/ReactTutorial#readme",
+  "dependencies": {
+    "react": "^15.0.2",
+    "react-tools": "^0.13.3"
+  }
+}
