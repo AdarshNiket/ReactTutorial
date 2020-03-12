@@ -16,7 +16,7 @@
     "url": "https://github.com/AdarshNiket/ReactTutorial/issues"
   },
   "homepage": "https://github.com/AdarshNiket/ReactTutorial#readme",
- "dependencies": {
+  "dependencies": {
     "bootstrap": "4.3.1",
     "immer": "2.1.3",
     "prop-types": "15.7.2",
